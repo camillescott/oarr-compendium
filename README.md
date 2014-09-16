@@ -8,7 +8,7 @@ This page is the product of the TGAC AllBio reproducibility and open science bes
 Contributors
 ------------
 
-* Camille Scott (@camille\_codon) camille.scott.w@gmail.com
+* Camille Scott (@camille\_codon)
 * Titus Brown (@ctitusbrown)
 * Adrian Alexa
 * Naomi Attar

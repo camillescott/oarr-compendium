@@ -14,41 +14,7 @@ moar everything from people who know stuff who aren't me
 Longer Term TODOs:
 ++summarization of overarching philosophies
 
-## Contributors: (add yourself here) ##
-- Camille Scott (@camille_codon)
-- Titus Brown (@ctitusbrown)
-- Adrian Alexa
-- Naomi Attar
-- Michael Markie (@mmmarksman)
-- Bruno Vieira
 
-What is reproducibility?
---------------------------------
-
-Blog post (C TItus Brown): http://ivory.idyll.org/blog/2014-our-paper-process.html
-Basic reproducible paper HOWTO
-10 Simple Rules for RR: http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003285
-Open Access: A researcher's perspectice (Karl Broman): https://www.biostat.wisc.edu/~kbroman/presentations/openaccess_withnotes.pdf
-"OA is about money"
-Replicability is not Reproducibility: http://cogprints.org/7691/7/icmlws09.pdf
-Lior Pachter: 'Reproducibility vs. usability': http://liorpachter.wordpress.com/2014/03/18/reproducibility-vs-usability/
-David Stern's 'prescription' for reproducibility in science: http://blogs.biomedcentral.com/bmcblog/2014/06/26/can-you-show-us-that-again-please/
-Protocol-based approach: https://khmer-protocols.readthedocs.org/en/latest/mrnaseq/
-blog post: http://ivory.idyll.org/blog/announcing-khmer-protocols.html
-Trinity RNAseq protocols (Broad Inst.): http://www.nature.com/nprot/journal/v8/n8/full/nprot.2013.084.html
-Idea: provide general protocols (software to use, suggested parameters, expected outputs) rather than pipelines
-Less prone to bitrot / compat issues / platform isssues; diff programs can be substituted when obsolete
-
-[Victoria Stodden: Best Practices for Computational Science: Software Infrastructure and Environments for Reproducible and Extensible Research](http://scholar.google.com/citations?view_op=view_citation&hl=en&user=LWw60SgAAAAJ&sortby=pubdate&citation_for_view=LWw60SgAAAAJ:dfsIfKJdRG4C)
-
-
-Robert Gentleman views on Reproducible Research
-
-A very nice an concise presentation [Reproducible Research (2011)](http://stanford.edu/~vcs/AAAS2011/RepResAAAS.pdf)
-[Statistical Analyses and Reproducible Research](http://biostats.bepress.com/bioconductor/paper2)
-[Reproducible Research: A Bioinformatics Case Study (2004)](http://biostats.bepress.com/bioconductor/paper3)
-
-[Reproducible Research and Programming](https://www.stat.washington.edu/jaw/jaw.research.reproducible.html)
 
 
 

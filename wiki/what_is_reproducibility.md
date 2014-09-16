@@ -17,3 +17,11 @@ What is Reproducibility?
 * Victoria Stodden: Computational Sci. Best Practices: [scholar.google.com](http://scholar.google.com/citations?view_op=view_citation&hl=en&user=LWw60SgAAAAJ&sortby=pubdate&citation_for_view=LWw60SgAAAAJ:dfsIfKJdRG4C)
 * Measuring RR in Computer Systems Research: [pdf](http://reproducibility.cs.arizona.edu/tr.pdf)
     * summary: most papers not reproducible
+* Robert Gentleman views on Reproducible Research
+    * A very nice an concise presentation [Reproducible Research (2011)](http://stanford.edu/~vcs/AAAS2011/RepResAAAS.pdf)
+    * [Statistical Analyses and Reproducible Research](http://biostats.bepress.com/bioconductor/paper2)
+    * [Reproducible Research: A Bioinformatics Case Study (2004)](http://biostats.bepress.com/bioconductor/paper3)
+
+* [Reproducible Research and Programming](https://www.stat.washington.edu/jaw/jaw.research.reproducible.html)
+
+
