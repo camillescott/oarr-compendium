@@ -17,3 +17,9 @@ Contributors
 * Sam Nicholls (@samstudio8)
 * Konrad Förstner (@konradfoerstner)
 * Neil Chue Hong (@npch)
+
+Dependencies
+------------
+
+* Python
+* [markdoc](http://markdoc.org/) for content generation (pip install Markdoc)
