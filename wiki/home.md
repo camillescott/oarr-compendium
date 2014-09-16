@@ -156,18 +156,6 @@ PlosOne: http://www.plosone.org/
 Victoria Stodden: empirical analysis of journal data and code policy: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-g003
 bioRxiv http://biorxiv.org/
 
-Representing Ideas
---------------------------
-
-IPython notebook: http://ipython.org/notebook.html
-Browser based python with matplotlib integration, markdown
-Literate programming in R: http://yihui.name/knitr/
-Unified code, writing, maths
-ShareLatex: https://www.sharelatex.com/
-"Google docs for latex"
-Writelatex: https://www.writelatex.com
-Another collab latex service
-
 Bruno's Utopia | @bmpvieira
 --------------------------------------
 Code Hosting -> GitHub
