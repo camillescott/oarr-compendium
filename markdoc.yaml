@@ -3,3 +3,4 @@ wiki-name: Open Access and Reproducible Research Compendium
 html-dir: "html"
 wiki-dir: "wiki"
 static-dir: "static"
+listing-filename: "list.html"
