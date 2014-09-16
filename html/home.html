@@ -78,12 +78,14 @@ moar everything from people who know stuff who aren't me</p>
 <p>Longer Term TODOs:
 ++summarization of overarching philosophies</p>
 <h2>Contributors: (add yourself here)</h2>
-<p>Camille Scott (@camille_codon)
-Titus Brown (@ctitusbrown)
-Adrian Alexa
-Naomi Attar
-Michael Markie (@mmmarksman)
-Bruno Vieira</p>
+<ul>
+<li>Camille Scott (@camille_codon)</li>
+<li>Titus Brown (@ctitusbrown)</li>
+<li>Adrian Alexa</li>
+<li>Naomi Attar</li>
+<li>Michael Markie (@mmmarksman)</li>
+<li>Bruno Vieira</li>
+</ul>
 <h2>What is reproducibility?</h2>
 <p>Blog post (C TItus Brown): http://ivory.idyll.org/blog/2014-our-paper-process.html
 Basic reproducible paper HOWTO
@@ -97,8 +99,13 @@ Protocol-based approach: https://khmer-protocols.readthedocs.org/en/latest/mrnas
 blog post: http://ivory.idyll.org/blog/announcing-khmer-protocols.html
 Trinity RNAseq protocols (Broad Inst.): http://www.nature.com/nprot/journal/v8/n8/full/nprot.2013.084.html
 Idea: provide general protocols (software to use, suggested parameters, expected outputs) rather than pipelines
-Less prone to bitrot / compat issues / platform isssues; diff programs can be substituted when obsolete
-Victoria Stodden: Computational Sci. Best Practices: http://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=LWw60SgAAAAJ&amp;sortby=pubdate&amp;citation_for_view=LWw60SgAAAAJ:dfsIfKJdRG4C</p>
+Less prone to bitrot / compat issues / platform isssues; diff programs can be substituted when obsolete</p>
+<p><a href="http://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=LWw60SgAAAAJ&amp;sortby=pubdate&amp;citation_for_view=LWw60SgAAAAJ:dfsIfKJdRG4C">Victoria Stodden: Best Practices for Computational Science: Software Infrastructure and Environments for Reproducible and Extensible Research</a></p>
+<p>Robert Gentleman views on Reproducible Research</p>
+<p>A very nice an concise presentation <a href="http://stanford.edu/~vcs/AAAS2011/RepResAAAS.pdf">Reproducible Research (2011)</a>
+<a href="http://biostats.bepress.com/bioconductor/paper2">Statistical Analyses and Reproducible Research</a>
+<a href="http://biostats.bepress.com/bioconductor/paper3">Reproducible Research: A Bioinformatics Case Study (2004)</a></p>
+<p><a href="https://www.stat.washington.edu/jaw/jaw.research.reproducible.html">Reproducible Research and Programming</a></p>
 <h2>Training</h2>
 <p>Publishing on the web: http://software-carpentry.org/blog/2014/01/publishing-on-the-web.html
 How does one approach publishing on the web?
@@ -121,25 +128,23 @@ Funder Agenda: EC Mandate on Access to Knowledge for any public funds beneficiar
 BioMed Central blog open data posts: http://blogs.biomedcentral.com/bmcblog/tag/open-data/ (new dedicated blog site coming later this year)
 In general, Victoria Stodden has an enormous body of work: http://scholar.google.com/citations?hl=en&amp;user=LWw60SgAAAAJ&amp;view_op=list_works&amp;sortby=pubdate</p>
 <h2>Full Ecosystems</h2>
-<p>http://www.bioconductor.org/about/
-Collection of libraries and standards for bioinformatics work in R
-Bionode http://bionode.io
-Biogems http://biogems.info
-BioJS http://biojs.net
-http://environmentalomics.org/bio-linux/
-Biology-targeted linux distro
-https://www.docker.com/whatisdocker/
-Software executable environment and delivery: software versioning, provenance, packaging, IO metadata
-Galaxy: http://galaxyproject.org/
-Fully integrated pipelining, data hosting, compute resources on many diff HPC platforms
-Cloud based ecosystems
-https://basespace.illumina.com
-DNANexus https://dnanexus.com
-Synapse https://www.synapse.org
-GeneStack http://genestack.org
-batlab: https://www.batlab.org/
-Cross-platform automated software testing
-Cytoscape: http://www.cytoscape.org/</p>
+<p>What are we trying to list here? Environments/ecosystems that incentivise the users to do reproducible research(RR) or tools that can be used to achieve some of the tasks involved in RR? Som eof the links listed below are just tools. </p>
+<ul>
+<li><a href="http://www.bioconductor.org">Bioconductor</a> provides tools for the analysis and comprehension of high-throughput genomic data. Bioconductor try to support and enables reproducible reasearch through the use of vignettes. </li>
+<li><a href="https://www.docker.com/whatisdocker">Docker</a> - Software executable environment and delivery: software versioning, provenance, packaging, IO metadata. If <em>docker</em> containers will also be delivered with a vignette, like the one enforced by the Bioconductor, then it can become a powerful ecosystem.</li>
+<li><a href="http://bionode.io">Bionode</a></li>
+<li><a href="http://biogems.info">Biogems</a></li>
+<li><a href="http://biojs.net">BioJS</a></li>
+<li><a href="http://environmentalomics.org/bio-linux/">Bio-Linux</a> - Biology-targeted linux distro</li>
+<li><a href="http://galaxyproject.org">Galaxy</a> - Fully integrated pipelining, data hosting, compute resources on many diff HPC platforms</li>
+</ul>
+<h2>Cloud based ecosystems</h2>
+<p>-<a href="https://basespace.illumina.com">BaseSpace</a>
+-<a href="https://dnanexus.com">DNANexus</a>
+-<a href="https://www.synapse.org">Synapse</a>
+-<a href="http://genestack.org">GeneStack</a>
+-<a href="https://www.batlab.org">batlab</a> - Cross-platform automated software testing
+-<a href="http://www.cytoscape.org">Cytoscape</a></p>
 <h2>Data Hosting</h2>
 <p>"geometry of needs and challenges in publishing data" https://twitter.com/billdoesphysics/status/488447056759894016</p>
 <p>Disitributed systems
