@@ -1,4 +1,5 @@
 wiki-name: Open Access and Reproducible Research Compendium# Set this to whatever you want
 
-wiki-dir: "."
-static-dir: ".static"
+html-dir: "."
+wiki-dir: "src"
+static-dir: "static"
