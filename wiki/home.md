@@ -12,7 +12,7 @@ Build/organize wiki
 moar everything from people who know stuff who aren't me
 
 Longer Term TODOs:
-++summarization of overarching philosophies 
+++summarization of overarching philosophies
 
 ## Contributors: (add yourself here) ##
 Camille Scott (@camille_codon)
@@ -20,7 +20,7 @@ Titus Brown (@ctitusbrown)
 Adrian Alexa
 Naomi Attar
 Michael Markie (@mmmarksman)
-Bruno Vieira 
+Bruno Vieira
 
 What is reproducibility?
 --------------------------------
@@ -168,31 +168,6 @@ ShareLatex: https://www.sharelatex.com/
 Writelatex: https://www.writelatex.com
 Another collab latex service
 
-Software Philosophies
-----------------------------------------------
-
-VMs are Bad for RR (C T Brown): http://ivory.idyll.org/blog/vms-considered-harmful.html
-VMs don't allow remixing
-Greg Wilson, "VMs are PDF's for software": https://twitter.com/gvwilson/status/508402669825060864
-Konrad Hinsen: moar on VM's being bad: http://khinsen.wordpress.com/2013/08/14/platforms-for-reproducible-research/
-Bill Howe: "...the point is that publishing a VM is trivial, while making your code portable and reusable for others is not. I think if everyone published a VM associated with their paper, which incurs essentially zero extra effort, we'd be in a better state than we are today. You're holding out for the utopia of everyone becoming linux hackers."
-Software Sustainability Institute: http://www.software.ac.uk/policy/manifesto
-Kitware (open source, training, etc): http://www.kitware.com/company/about.html
-Small tools manifesto for bioinformatics: https://github.com/pjotrp/bioinformatics
-Requirements for Bionode modules https://github.com/bionode/bionode-template#bionode-template
- Docker
-    https://medium.com/@gawbul/devops-and-reproducible-science-628ffc839de3
-    http://melissagymrek.com/science/2014/08/29/docker-reproducible-research.html
-    http://www.bioinformaticszen.com/post/reproducible-assembler-benchmarks/
-Dynamic figures http://juretriglav.si/how-scientific-figures-should-work-in-2014/
-Others
-    https://medium.com/@bmpvieira/my-views-about-science-35045625176f
-    http://juretriglav.si/thoughts-on-reproducibility-of-open-scientific-software/
-    http://juretriglav.si/discovery-of-scientific-software/
-    Stodden: runmycode.org: http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6404455&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6404455
-Dissemination of platform for executing published code, gen results
-
-
 Bruno's Utopia | @bmpvieira
 --------------------------------------
 Code Hosting -> GitHub
@@ -201,4 +176,3 @@ Data Hosting and Distribution -> Dat
 Paper -> Arxiv or GitHub
 Peer Review -> http://theoj.org
 Reproducibility Guarantee -> Docker image as analysis "snapshots" with each paper
-
