@@ -1,0 +1,4 @@
+wiki-name: State of the Art in Open Access and Reproducbile Research # Set this to whatever you want
+
+wiki-dir: "."
+static-dir: ".static"
