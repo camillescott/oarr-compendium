@@ -135,27 +135,6 @@ Bioconductor (see "Full Ecosystems")
 Google Code
 SciForge http://www.sciforge-project.org/
 
-Open Journals and Reviewing
------------------------------------------
-The reviewers oatt: http://biomickwatson.wordpress.com/2013/02/11/the-reviewers-oath/
-Oath/manifesto for ethical peer review
-Peer review on top of arxiv.org (open source project from GitHub team):  http://theoj.org
-http://arxiv.org/
-Blog post: Submit to arxiv http://phylogenomics.blogspot.co.uk/2012/03/calling-all-computational-biologists-do.html
-OpeneReview:
-http://openreview.net/about
-Network + advocacy for open peer review
-f1000: http://f1000research.com/
-publish all the things: publish first, review later
-Biology Direct, PeerJ, BMC Series medical journals, eLife
-GigaScience: http://www.gigasciencejournal.com/
-Data, research, and software publishing, all open access
-Insight Journal: http://www.insight-journal.org/
-Luis Ibanze: https://opensource.com/users/luis-ibanez
-PlosOne: http://www.plosone.org/
-Victoria Stodden: empirical analysis of journal data and code policy: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067111#pone-0067111-g003
-bioRxiv http://biorxiv.org/
-
 Bruno's Utopia | @bmpvieira
 --------------------------------------
 Code Hosting -> GitHub
