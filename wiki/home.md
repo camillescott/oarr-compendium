@@ -15,12 +15,12 @@ Longer Term TODOs:
 ++summarization of overarching philosophies
 
 ## Contributors: (add yourself here) ##
-Camille Scott (@camille_codon)
-Titus Brown (@ctitusbrown)
-Adrian Alexa
-Naomi Attar
-Michael Markie (@mmmarksman)
-Bruno Vieira
+- Camille Scott (@camille_codon)
+- Titus Brown (@ctitusbrown)
+- Adrian Alexa
+- Naomi Attar
+- Michael Markie (@mmmarksman)
+- Bruno Vieira
 
 What is reproducibility?
 --------------------------------
@@ -38,7 +38,19 @@ blog post: http://ivory.idyll.org/blog/announcing-khmer-protocols.html
 Trinity RNAseq protocols (Broad Inst.): http://www.nature.com/nprot/journal/v8/n8/full/nprot.2013.084.html
 Idea: provide general protocols (software to use, suggested parameters, expected outputs) rather than pipelines
 Less prone to bitrot / compat issues / platform isssues; diff programs can be substituted when obsolete
-Victoria Stodden: Computational Sci. Best Practices: http://scholar.google.com/citations?view_op=view_citation&hl=en&user=LWw60SgAAAAJ&sortby=pubdate&citation_for_view=LWw60SgAAAAJ:dfsIfKJdRG4C
+
+[Victoria Stodden: Best Practices for Computational Science: Software Infrastructure and Environments for Reproducible and Extensible Research](http://scholar.google.com/citations?view_op=view_citation&hl=en&user=LWw60SgAAAAJ&sortby=pubdate&citation_for_view=LWw60SgAAAAJ:dfsIfKJdRG4C)
+
+
+Robert Gentleman views on Reproducible Research
+
+A very nice an concise presentation [Reproducible Research (2011)](http://stanford.edu/~vcs/AAAS2011/RepResAAAS.pdf)
+[Statistical Analyses and Reproducible Research](http://biostats.bepress.com/bioconductor/paper2)
+[Reproducible Research: A Bioinformatics Case Study (2004)](http://biostats.bepress.com/bioconductor/paper3)
+
+[Reproducible Research and Programming](https://www.stat.washington.edu/jaw/jaw.research.reproducible.html)
+
+
 
 
 Training
@@ -71,25 +83,25 @@ In general, Victoria Stodden has an enormous body of work: http://scholar.google
 Full Ecosystems
 ----------------------
 
-http://www.bioconductor.org/about/
-Collection of libraries and standards for bioinformatics work in R
-Bionode http://bionode.io
-Biogems http://biogems.info
-BioJS http://biojs.net
-http://environmentalomics.org/bio-linux/
-Biology-targeted linux distro
-https://www.docker.com/whatisdocker/
-Software executable environment and delivery: software versioning, provenance, packaging, IO metadata
-Galaxy: http://galaxyproject.org/
-Fully integrated pipelining, data hosting, compute resources on many diff HPC platforms
+What are we trying to list here? Environments/ecosystems that incentivise the users to do reproducible research(RR) or tools that can be used to achieve some of the tasks involved in RR? Som eof the links listed below are just tools. 
+
+- [Bioconductor](http://www.bioconductor.org) provides tools for the analysis and comprehension of high-throughput genomic data. Bioconductor try to support and enables reproducible reasearch through the use of vignettes. 
+- [Docker](https://www.docker.com/whatisdocker) - Software executable environment and delivery: software versioning, provenance, packaging, IO metadata. If *docker* containers will also be delivered with a vignette, like the one enforced by the Bioconductor, then it can become a powerful ecosystem.
+- [Bionode](http://bionode.io)
+- [Biogems](http://biogems.info)
+- [BioJS](http://biojs.net)
+- [Bio-Linux](http://environmentalomics.org/bio-linux/) - Biology-targeted linux distro
+- [Galaxy](http://galaxyproject.org) - Fully integrated pipelining, data hosting, compute resources on many diff HPC platforms
+
 Cloud based ecosystems
-https://basespace.illumina.com
-DNANexus https://dnanexus.com
-Synapse https://www.synapse.org
-GeneStack http://genestack.org
-batlab: https://www.batlab.org/
-Cross-platform automated software testing
-Cytoscape: http://www.cytoscape.org/
+----------------------
+-[BaseSpace](https://basespace.illumina.com)
+-[DNANexus](https://dnanexus.com)
+-[Synapse](https://www.synapse.org)
+-[GeneStack](http://genestack.org)
+-[batlab](https://www.batlab.org) - Cross-platform automated software testing
+-[Cytoscape](http://www.cytoscape.org)
+
 
 
 
