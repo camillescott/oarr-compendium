@@ -23,5 +23,6 @@ Dependencies
 
 * Python
 * [markdoc](http://markdoc.org/) for content generation
-
+```
     pip install markdoc
+```
