@@ -22,4 +22,6 @@ Dependencies
 ------------
 
 * Python
-* [markdoc](http://markdoc.org/) for content generation (pip install Markdoc)
+* [markdoc](http://markdoc.org/) for content generation
+
+    pip install markdoc
