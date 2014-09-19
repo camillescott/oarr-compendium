@@ -4,41 +4,6 @@ A common complaint is that there have been too many approaches and not enough fo
 
 The deliverable would be either a wiki summarizing the results, a review paper, or both.
 
-TODOs:
-Need more on metadata, provenence
-Some views from people who are anti-open access
-Empirical research on OA/RR
-Build/organize wiki
-moar everything from people who know stuff who aren't me
-
-Longer Term TODOs:
-++summarization of overarching philosophies
-
-
-
-
-Data Hosting
-------------------
-"geometry of needs and challenges in publishing data" https://twitter.com/billdoesphysics/status/488447056759894016
-
-Disitributed systems
-~~~~~~~~~~~~~~~~
-Dat http://dat-data.com
-Bittorrent for academics: http://academictorrents.com/about.php
-
-
-Centralized
-~~~~~~~~~
-http://figshare.com
-Centralized OA for data and manuscripts (w/ or w/o peer review)
-http://datadryad.org
-Amazon ec2: http://aws.amazon.com/ec2/ S3?
-Cloud hosting for compute or data ccess
-It is better (and cheeper) to store your large data files in S3 than EC2
-Dataverse:http://thedata.org/
-Your lab's computer
-XSEDE: https://www.xsede.org/
-HPC resources for scientists (apply for compute time)
 
 Provenence
 ----------------
