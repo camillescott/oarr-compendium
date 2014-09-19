@@ -1,6 +1,8 @@
 Advocacy
 ========
 
+There are a number of groups who work specifically to push forward OARR thought, policies, and actions. Here are a few.
+
 * [Open Knowledge Foundation](https://okfn.org/about/)
 * [Software Sustainability Institute](http://software.ac.uk/)
 * TGAC AllBio RR [workshop](http://www.tgac.ac.uk/allbio-open-science-reproducibility-best-practice-workshop/)

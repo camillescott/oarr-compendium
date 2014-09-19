@@ -1,6 +1,8 @@
 Ecosystems
 ==========
 
+One school of thought toward aiding in reproducibility is that of creating complete software and data ecosystems. By enforcing a complete stack, these services ensure software interoperability, make data integration easier, provide an easy means of reproducing pipelines, and lower the barrier of entry in terms of computational skills. Detractors would point out that closed stacks hinder cutting edge research, reliance on centralized services risks obsolesence, private services might not be trustworthy data stewards, and virtualization solutions hinder software remixability. Regardless, complete ecosystems have gained considerable traction in some niches, particularly services like galaxy.
+
 Complete Software Ecosystems
 ----------------------------
 
