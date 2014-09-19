@@ -13,20 +13,20 @@ These questions are closely related to those of [complete ecosystems](ecosystems
 
 ### Disitributed systems
 
-* Dat http://dat-data.com
+* [Dat](http://dat-data.com)
 * Academic [torrents](http://academictorrents.com/about.php)
     * P2P data hosting on bittorent for scientists
 
 
 ###Centralized
 
-* http://figshare.com
+* [figshare](http://figshare.com)
     * Centralized OA for data and manuscripts (w/ or w/o peer review)
-* http://datadryad.org
+* [data dryad](http://datadryad.org)
 * Amazon EC22 and S3: [amazon](http://aws.amazon.com/ec2/ S3?)
     * Cloud hosting for compute or data ccess
 * Dataverse:http://thedata.org/
-* XSEDE: https://www.xsede.org/
+* [XSEDE](https://www.xsede.org/)
     * HPC resources for scientists (apply for compute time)
 
 
