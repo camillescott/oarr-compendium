@@ -1,6 +1,6 @@
 all: build
 
-build:
+build: wiki/*.md
 	markdoc build
 
 serve: build

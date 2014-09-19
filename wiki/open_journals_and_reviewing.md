@@ -5,7 +5,7 @@ By many measures, traditional publishers have been resistent to adopting policie
 
 * The reviewers oath [oath](http://biomickwatson.wordpress.com/2013/02/11/the-reviewers-oath/)
     * A manifesto to encourage ethical and efficacious peer review
-* [arxiv](http://arxiv.org]
+* [arxiv](http://arxiv.org)
     * Open preprint server (started in physics, as opened up to other fields)
 * [bioRxiv](http://biorxiv.org/)
     * arxiv-inspired biology-specific preprint service

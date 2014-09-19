@@ -5,7 +5,7 @@ Code has become an increasingly important part of the scientific process, and is
 ## Version Control
 
 * git citable code guidelines: [git](https://guides.github.com/activities/citable-code/)
-* http://zenodo.org
+* [zenodo](http://zenodo.org)
 * [git](http://git-scm.com/)
     * Major distributed version control system; used by Linux kernel project
 * [svn](https://subversion.apache.org/)
@@ -22,7 +22,7 @@ Code has become an increasingly important part of the scientific process, and is
 * [gitlab](https://gitlab.com)
     * A git hosting system; can be installed on server to manage a team or university\'s code
 * [gitorious](https://gitorious.org/)
-* Google [Code](https://code.google.com/)
+* [Google Code](https://code.google.com/)
 * [SciForge](http://www.sciforge-project.org/)
 
 
