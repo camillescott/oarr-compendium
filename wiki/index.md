@@ -7,9 +7,9 @@ The project grew out of the TGAC AllBio [Open Science and Reproducibility Best P
 
 It should be noted that we are not the only resource covering these topics. Some others are:
 
-    * [ropensci](http://ropensci.github.io/reproducibility-guide/)
-    * [DIRT](http://dirtdirectory.org/)
-    * [ropengov](http://ropengov.github.io/)
+* [ropensci](http://ropensci.github.io/reproducibility-guide/)
+* [DIRT](http://dirtdirectory.org/)
+* [ropengov](http://ropengov.github.io/)
 
 While these are execellent resources for tools enabling OARR, this guide aims to also collect thoughts on the philosophy of OARR. For those looking to learn more about OARR, we recommend perusing *all* of these services.
 
