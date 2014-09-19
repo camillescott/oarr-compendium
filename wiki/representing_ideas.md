@@ -9,3 +9,6 @@ Representing Ideas
 * "Google docs for latex"
 * Writelatex [page](https://www.writelatex.com)
 * Another collab latex service
+* [BiTeX](http://www.bibtex.org)
+* [Citation Style Language (CSL)](http://citationstyles.org/)
+* [Markdown for scientific writing](https://github.com/karthik/markdown_science)
