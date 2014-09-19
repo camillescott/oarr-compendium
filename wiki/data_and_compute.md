@@ -7,7 +7,7 @@ An important question for open science is how to best host data. Do we rely on c
 
 These questions are closely related to those of [complete ecosystems](ecosystems), where data hosting and compute are integrated with software systems. A different approach is to rely on seperate services for these needs. As always, the solution will likely be a mixture of these approaches. This page lists data hosting and compute resources which fall into the latter category.
 
-* "geometry of needs and challenges in publishing data" https://twitter.com/billdoesphysics/status/488447056759894016
+* "geometry of needs and challenges in publishing data" [twitter](https://twitter.com/billdoesphysics/status/488447056759894016)
 
 ##Resources
 
