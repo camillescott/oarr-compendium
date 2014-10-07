@@ -7,6 +7,7 @@ Complete Software Ecosystems
 ----------------------------
 
 - [Bioconductor](http://www.bioconductor.org) provides tools for the analysis and comprehension of high-throughput genomic data. Bioconductor try to support and enables reproducible reasearch through the use of vignettes. 
+- [Biostars](http://www.biostars.org) - A Q&A portal for bioinformatics.
 - [Docker](https://www.docker.com/whatisdocker) - Software executable environment and delivery: software versioning, provenance, packaging, IO metadata. If *docker* containers will also be delivered with a vignette, like the one enforced by the Bioconductor, then it can become a powerful ecosystem.
 - [Bio-Linux](http://environmentalomics.org/bio-linux/) - Biology-targeted linux distro
 - [Galaxy](http://galaxyproject.org) - Fully integrated pipelining, data hosting, compute resources on many diff HPC platforms
